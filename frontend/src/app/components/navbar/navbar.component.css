@@ -1,0 +1,14 @@
+.navBar {
+    background-color: #0D1B2A;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: 100;
+}
+
+.link-menu {
+    font-weight: 100;
+    color: white !important;
+    font-size: 21px;
+}
